@@ -1,0 +1,41 @@
+.links
+{
+
+	text-align:center;
+	background color:rgba(0.5,0.5,0.5,0.5);
+	width:80%;
+	border:50px rgb(250,5,5);
+	border-collapse:collapse;
+}
+a:link{
+	color:maroon;
+	background-color: transparent;
+	text-decoration:none;
+}
+a:visited{
+	color:maroon;
+	background-color: transparent;
+	text-decoration:none;
+}
+a:hover{
+	color:gold;
+	background-color: transparent;
+}
+img
+{
+	position:center
+	width:400px;
+	height:400px;
+	border:10px purple;
+	border-style: outset;
+}
+body
+{
+	background-color: cornsilk;
+
+}
+li
+{
+	font-size: 150%;
+color: rgb(200,200,5);
+}

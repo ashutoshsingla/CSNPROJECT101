@@ -1,0 +1,73 @@
+.v
+{
+	position: relative;
+	top:100px;
+	background-color:black;
+	color:rgb(255,150,255);
+	text-align:center;
+	font-size:200%;
+}
+
+body
+{
+	background-image: url(iitr.jpeg);
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+
+.links
+{
+
+	text-align: center;
+	background-color: rgba(0.5,0.5,0.5,0.5)
+	width:80%;
+	border:50px rgb(255,150,150);
+	border-collapse:collapse; 
+}
+
+a:link{
+	color:white;
+	background-color: transparent;
+	text-decoration:none;
+}
+a:visited{
+	color:white;
+	background-color: transparent;
+	text-decoration:none;
+}
+a:hover{
+	color:red;
+	background-color: transparent;
+}
+
+.results
+{
+	position:relative;
+	top:480px;
+	font-size: 150%;
+	background-color:rgba(150,150,150,0.1);
+}
+.r
+{
+	font-size:160%;
+	color:red;
+}
+li
+{
+	
+	position:relative;
+	top:100px;
+	text-decoration:purple;
+	text-align:center;
+	color:black
+;
+	font-size:250%;
+
+}
+caption
+
+{
+	color:rgb(300,300,300);
+}
+}
+}

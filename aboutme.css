@@ -1,0 +1,50 @@
+body
+{
+
+	background-image:url('ashu.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img
+{
+
+	   position:relative;
+	   left:520px;
+	   top:100px;
+	   width:440px;
+	   height:700px;
+}
+
+.links
+{
+
+	text-align:center;
+	background color:rgba(0.5,0.5,0.5,0.5);
+	width:80%;
+	border:50px rgb(250,5,5);
+	border-collapse:collapse;
+}
+.info
+{
+	font-size:150%;
+	position:relative;
+	top:100px;
+	background-color: red;
+
+}
+a:link{
+	color:white;
+	background-color: transparent;
+	text-decoration:none;
+}
+a:visited{
+	color:white;
+	background-color: transparent;
+	text-decoration:none;
+}
+a:hover{
+	color:red;
+	background-color: transparent;
+}
+
